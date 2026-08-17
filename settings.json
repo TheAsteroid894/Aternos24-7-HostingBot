@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solarnetwork.aternos.me",
-    "port": 13326,
-    "version": "",
+    "ip": "rustexe.falix.gg",
+    "port": 21041,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Join THe Discord!",
         "I like to play Minecraft!"
       ]
     },
